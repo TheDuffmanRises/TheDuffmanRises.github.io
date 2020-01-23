@@ -1,5 +1,5 @@
-# TheDuffmanRises.github.io
+# Fubblecode Bulma Test Site
 
 Sample landing page, will show off completed projects.
 
-https://theduffmanrises.github.io/
+https://fubblecode.github.io/mySite/
